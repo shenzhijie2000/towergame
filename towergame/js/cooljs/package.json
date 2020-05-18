@@ -1,0 +1,52 @@
+{
+  "_from": "cooljs@^1.0.4",
+  "_id": "cooljs@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha1-lOirGvIAwLMN+ToG4lgyteJDAoI=",
+  "_location": "/cooljs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cooljs@^1.0.4",
+    "name": "cooljs",
+    "escapedName": "cooljs",
+    "rawSpec": "^1.0.4",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.4"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/cooljs/download/cooljs-1.0.4.tgz",
+  "_shasum": "94e8ab1af200c0b30df93a06e25832b5e2430282",
+  "_spec": "cooljs@^1.0.4",
+  "_where": "E:\\WeChatProjects\\tower_game-master",
+  "author": {
+    "name": "iamkun"
+  },
+  "bugs": {
+    "url": "https://github.com/iamkun/cooljs/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "cooljs",
+  "homepage": "https://github.com/iamkun/cooljs#readme",
+  "keywords": [
+    "canvas",
+    "animation",
+    "engine"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "cooljs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamkun/cooljs.git"
+  },
+  "scripts": {
+    "test": "echo ok"
+  },
+  "version": "1.0.4"
+}
